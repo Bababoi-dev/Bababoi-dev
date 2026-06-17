@@ -100,8 +100,6 @@ Autonomous navigation and obstacle avoidance system built for the VEX Robotics C
 
 </div>
 
-> ⚠️ Replace `Bababoi-dev` with your actual GitHub handle for the stats to load.
-
 ---
 
 ## 📌 Featured Repos
