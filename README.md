@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Marwa 👋
+# Hey, I'm Marwa 
 
 **CS Student @ ULB Brussels · Game Dev · Cybersecurity Enthusiast**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 About Me
+##  About Me
 
 I'm a second-year Computer Science student at **Université libre de Bruxelles (ULB)**, currently exploring the overlap between **game development**, **systems programming**, and **cybersecurity**. I like building projects that are a little ambitious — real-time editors, procedural terrain, networked applications.
 
@@ -27,7 +27,7 @@ When I'm not debugging C++ at 2am, I'm probably designing a snowboard game or re
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -53,9 +53,9 @@ When I'm not debugging C++ at 2am, I'm probably designing a snowboard game or re
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 
-### 🎨 Collaborative Pixel Art Editor
+###  Collaborative Pixel Art Editor
 **C++ · Qt · QML · POSIX**
 
 Multi-user real-time collaborative editor with a client-server architecture. Features layered rendering, thread-safe synchronization, and a tool dispatch system built with `std::variant`. Built as part of INFO-F209 (Systems Programming) @ ULB.
