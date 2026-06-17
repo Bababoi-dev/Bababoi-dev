@@ -94,8 +94,7 @@ Autonomous navigation and obstacle avoidance system built for the VEX Robotics C
 
 <div align="center">
 
-![Marwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bababoi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
+![Marwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bababoi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bababoi-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
